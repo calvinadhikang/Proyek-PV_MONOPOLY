@@ -1,0 +1,28 @@
+C:\Users\Pierre Bertki\OneDrive\Documents\Axel\Proyek_Pv\Proyek_Pv\bin\Debug\Proyek_Pv.exe.config
+C:\Users\Pierre Bertki\OneDrive\Documents\Axel\Proyek_Pv\Proyek_Pv\bin\Debug\Proyek_Pv.exe
+C:\Users\Pierre Bertki\OneDrive\Documents\Axel\Proyek_Pv\Proyek_Pv\bin\Debug\Proyek_Pv.pdb
+C:\Users\Pierre Bertki\OneDrive\Documents\Axel\Proyek_Pv\Proyek_Pv\obj\Debug\Proyek_Pv.csprojAssemblyReference.cache
+C:\Users\Pierre Bertki\OneDrive\Documents\Axel\Proyek_Pv\Proyek_Pv\obj\Debug\Proyek_Pv.Menu.resources
+C:\Users\Pierre Bertki\OneDrive\Documents\Axel\Proyek_Pv\Proyek_Pv\obj\Debug\Proyek_Pv.Properties.Resources.resources
+C:\Users\Pierre Bertki\OneDrive\Documents\Axel\Proyek_Pv\Proyek_Pv\obj\Debug\Proyek_Pv.Resource1.resources
+C:\Users\Pierre Bertki\OneDrive\Documents\Axel\Proyek_Pv\Proyek_Pv\obj\Debug\Proyek_Pv.csproj.GenerateResource.cache
+C:\Users\Pierre Bertki\OneDrive\Documents\Axel\Proyek_Pv\Proyek_Pv\obj\Debug\Proyek_Pv.csproj.CoreCompileInputs.cache
+C:\Users\Pierre Bertki\OneDrive\Documents\Axel\Proyek_Pv\Proyek_Pv\obj\Debug\Proyek_Pv.exe
+C:\Users\Pierre Bertki\OneDrive\Documents\Axel\Proyek_Pv\Proyek_Pv\obj\Debug\Proyek_Pv.pdb
+C:\Users\Pierre Bertki\OneDrive\Documents\Axel\Proyek_Pv\Proyek_Pv\obj\Debug\Proyek_Pv.Map.resources
+C:\Users\Pierre Bertki\OneDrive\Documents\Axel\Proyek_Pv\Proyek_Pv\obj\Debug\Proyek_Pv.setting.resources
+C:\Users\Pierre Bertki\OneDrive\Documents\Axel\Proyek_Pv\Proyek_Pv\obj\Debug\Proyek_Pv.Leaderboard.resources
+A:\ISTTS\sem 2\PROYEK PV\Proyek_Pv - Copy\Proyek_Pv\bin\Debug\Proyek_Pv.exe.config
+A:\ISTTS\sem 2\PROYEK PV\Proyek_Pv - Copy\Proyek_Pv\bin\Debug\Proyek_Pv.exe
+A:\ISTTS\sem 2\PROYEK PV\Proyek_Pv - Copy\Proyek_Pv\bin\Debug\Proyek_Pv.pdb
+A:\ISTTS\sem 2\PROYEK PV\Proyek_Pv - Copy\Proyek_Pv\obj\Debug\Proyek_Pv.csprojAssemblyReference.cache
+A:\ISTTS\sem 2\PROYEK PV\Proyek_Pv - Copy\Proyek_Pv\obj\Debug\Proyek_Pv.Menu.resources
+A:\ISTTS\sem 2\PROYEK PV\Proyek_Pv - Copy\Proyek_Pv\obj\Debug\Proyek_Pv.Leaderboard.resources
+A:\ISTTS\sem 2\PROYEK PV\Proyek_Pv - Copy\Proyek_Pv\obj\Debug\Proyek_Pv.Map.resources
+A:\ISTTS\sem 2\PROYEK PV\Proyek_Pv - Copy\Proyek_Pv\obj\Debug\Proyek_Pv.Properties.Resources.resources
+A:\ISTTS\sem 2\PROYEK PV\Proyek_Pv - Copy\Proyek_Pv\obj\Debug\Proyek_Pv.Resource1.resources
+A:\ISTTS\sem 2\PROYEK PV\Proyek_Pv - Copy\Proyek_Pv\obj\Debug\Proyek_Pv.setting.resources
+A:\ISTTS\sem 2\PROYEK PV\Proyek_Pv - Copy\Proyek_Pv\obj\Debug\Proyek_Pv.csproj.GenerateResource.cache
+A:\ISTTS\sem 2\PROYEK PV\Proyek_Pv - Copy\Proyek_Pv\obj\Debug\Proyek_Pv.csproj.CoreCompileInputs.cache
+A:\ISTTS\sem 2\PROYEK PV\Proyek_Pv - Copy\Proyek_Pv\obj\Debug\Proyek_Pv.exe
+A:\ISTTS\sem 2\PROYEK PV\Proyek_Pv - Copy\Proyek_Pv\obj\Debug\Proyek_Pv.pdb
